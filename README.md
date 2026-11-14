@@ -223,4 +223,4 @@ Kartridge is offered as a full free version, providing users with access to all 
 Ready to explore the world of indie gaming? Download **Kartridge** today and dive into the adventure!
 
 ---
-**Last updated:** 2026-11-14 10:10:23 UTC
+**Last updated:** 2026-11-14 16:56:09 UTC
